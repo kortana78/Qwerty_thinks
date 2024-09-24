@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-s9yo+vao0qm1-_bdqh)0ciyo-c%x^n=a!$9se914^lm5tf%wwj
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [qwerty-thinks.vercel.app]
 
 
 # Application definition
